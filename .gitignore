@@ -1,0 +1,20 @@
+# Ignore all .pyc files
+*.pyc
+
+# Ignore the __pycache__ directory
+__pycache__/
+
+# Ignore a specific file
+secrets.txt
+
+# Ignore a folder and its contents
+data/
+
+# Ignore client_secrets.json file
+client_secret_*
+
+# Ignore .pickle
+*.pickle
+
+# Ignore dotenv file
+.env
