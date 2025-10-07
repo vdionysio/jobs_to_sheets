@@ -1,2 +1,2 @@
 # jobs_to_sheets
-Use job seach APIs to populate a google sheet
+Use job search APIs to populate a google sheet.
